@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshavardhan3
 - 👀 I’m interested in Machine Learning, Deep Learning, Image Processing, Computer Vision
-- 🌱 I’m currently learning Machine Learning, Deep Learning, Image Processing, Computer Vision
+<!-- - 🌱 I’m currently learning Machine Learning, Deep Learning, Image Processing, Computer Vision -->
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --->
 
